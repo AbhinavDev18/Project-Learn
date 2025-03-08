@@ -9,6 +9,19 @@ This repository is designed to make sure how deep every beginners should learn j
 ---
 
 ## 📂 Folder Structure  
+```
+Project-Learn/
+│── ECommerse/
+│── ExpenseTracker/
+│── QuizApplication/
+│── TODO_List/
+│── Tailwind/
+│── WeatherApp/
+│── landingPage/
+│── loginPage/
+│── navBar/
+│── README.md
+```
 
 
 ---
