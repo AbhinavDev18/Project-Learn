@@ -24,3 +24,9 @@ This repository is designed to help learners explore various programming concept
 1. **Clone the repository:**  
    ```sh
    git clone https://github.com/AbhinavDev18/Project-Learn.git
+   ```
+2.**Navigate into the project directory:**
+   ```sh
+   cd Project-Learn
+   ```
+3.**Start exploring the code!**
