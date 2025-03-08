@@ -4,7 +4,7 @@ A beginner-friendly project to practice and enhance coding skills. 🚀
 ---
 
 ## 📖 About  
-This repository is designed to help learners explore various programming concepts, algorithms, and best practices through hands-on projects. Whether you're just starting or improving your coding skills, this repo is for you!  
+This repository is designed to make sure how deep every beginners should learn javascript and how to write our own logics and algorithms according to our project!  
 
 ---
 
@@ -25,8 +25,8 @@ This repository is designed to help learners explore various programming concept
    ```sh
    git clone https://github.com/AbhinavDev18/Project-Learn.git
    ```
-2.**Navigate into the project directory:**
+2. **Navigate into the project directory:**
    ```sh
    cd Project-Learn
    ```
-3.**Start exploring the code!**
+3. **Start exploring the code!**
